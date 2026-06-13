@@ -1,0 +1,17 @@
+var searchData=
+[
+  ['screen_5fanimateeyes_0',['screen_AnimateEyes',['../screen_8h.html#ab270e767989a9a47d270e0acd3b52eb5',1,'screen_AnimateEyes(void):&#160;screen.c'],['../screen_8c.html#ab270e767989a9a47d270e0acd3b52eb5',1,'screen_AnimateEyes(void):&#160;screen.c']]],
+  ['screen_5fanimatepeteyes_1',['screen_AnimatePetEyes',['../screen_8h.html#a969b1d26095fe1644491f809b6efa75f',1,'screen_AnimatePetEyes(void):&#160;screen.c'],['../screen_8c.html#a969b1d26095fe1644491f809b6efa75f',1,'screen_AnimatePetEyes(void):&#160;screen.c']]],
+  ['screen_5fanimatescaredface_2',['screen_AnimateScaredFace',['../screen_8h.html#a1008b04a1bd5f3555838b6d17b116f07',1,'screen_AnimateScaredFace(void):&#160;screen.c'],['../screen_8c.html#a1008b04a1bd5f3555838b6d17b116f07',1,'screen_AnimateScaredFace(void):&#160;screen.c']]],
+  ['screen_5fclear_3',['screen_Clear',['../screen_8h.html#a203102fe5a8a6213db780d5a3cb9122d',1,'screen_Clear(void):&#160;screen.c'],['../screen_8c.html#a203102fe5a8a6213db780d5a3cb9122d',1,'screen_Clear(void):&#160;screen.c']]],
+  ['screen_5fdrawpixel_4',['screen_DrawPixel',['../screen_8h.html#a10e636653b769bfad9f2cc256d0bb081',1,'screen_DrawPixel(uint8_t x, uint8_t y, uint8_t color):&#160;screen.c'],['../screen_8c.html#a10e636653b769bfad9f2cc256d0bb081',1,'screen_DrawPixel(uint8_t x, uint8_t y, uint8_t color):&#160;screen.c']]],
+  ['screen_5finit_5',['screen_Init',['../screen_8h.html#aad95245a517355a90fdb85b30f608e2f',1,'screen_Init(I2C_HandleTypeDef *hi2c):&#160;screen.c'],['../screen_8c.html#aad95245a517355a90fdb85b30f608e2f',1,'screen_Init(I2C_HandleTypeDef *hi2c):&#160;screen.c']]],
+  ['screen_5fupdatescreen_6',['screen_UpdateScreen',['../screen_8h.html#a8200d3a2f817040a786bd433d071f4ad',1,'screen_UpdateScreen(void):&#160;screen.c'],['../screen_8c.html#a8200d3a2f817040a786bd433d071f4ad',1,'screen_UpdateScreen(void):&#160;screen.c']]],
+  ['servo_5fears_5fdown_7',['Servo_Ears_Down',['../servo_8h.html#a61b4649fecd858362c0558f8497f31f3',1,'Servo_Ears_Down(Servo_t *left, Servo_t *right):&#160;servo.c'],['../servo_8c.html#a61b4649fecd858362c0558f8497f31f3',1,'Servo_Ears_Down(Servo_t *left, Servo_t *right):&#160;servo.c']]],
+  ['servo_5fears_5fup_8',['Servo_Ears_Up',['../servo_8h.html#aaf6a877855beb1e2db082a76ebec05d8',1,'Servo_Ears_Up(Servo_t *left, Servo_t *right):&#160;servo.c'],['../servo_8c.html#aaf6a877855beb1e2db082a76ebec05d8',1,'Servo_Ears_Up(Servo_t *left, Servo_t *right):&#160;servo.c']]],
+  ['servo_5finit_9',['Servo_Init',['../servo_8h.html#af641223dcb4f0c0099a730232b40c642',1,'Servo_Init(Servo_t *servo):&#160;servo.c'],['../servo_8c.html#af641223dcb4f0c0099a730232b40c642',1,'Servo_Init(Servo_t *servo):&#160;servo.c']]],
+  ['servo_5fsetangle_10',['Servo_SetAngle',['../servo_8h.html#a6ac955e18abe7ce7fd1e38f1d9ba6d91',1,'Servo_SetAngle(Servo_t *servo, uint8_t angle):&#160;servo.c'],['../servo_8c.html#a6ac955e18abe7ce7fd1e38f1d9ba6d91',1,'Servo_SetAngle(Servo_t *servo, uint8_t angle):&#160;servo.c']]],
+  ['servo_5fwiggleears_11',['Servo_WiggleEars',['../servo_8h.html#a8ea1ac4a05717261d87487ea0c3ab729',1,'Servo_WiggleEars(Servo_t *left, Servo_t *right):&#160;servo.c'],['../servo_8c.html#a8ea1ac4a05717261d87487ea0c3ab729',1,'Servo_WiggleEars(Servo_t *left, Servo_t *right):&#160;servo.c']]],
+  ['switch_5fison_12',['Switch_IsOn',['../main_8c.html#a27348f6a46fe4fdeca6d4ba7ac6e160f',1,'main.c']]],
+  ['systemclock_5fconfig_13',['SystemClock_Config',['../main_8c.html#a70af21c671abfcc773614a9a4f63d920',1,'main.c']]]
+];
