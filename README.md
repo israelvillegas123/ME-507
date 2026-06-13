@@ -5,8 +5,7 @@ Desk Buddy is a small autonomous desk companion robot built around an STM32F411 
 ## Documentation
 
 Project documentation can be found at:
-
-https://YOUR-GITHUB-PAGES-LINK-HERE
+(https://israelvillegas123.github.io/ME-507/index.html)
 
 ## Repository Structure
 
